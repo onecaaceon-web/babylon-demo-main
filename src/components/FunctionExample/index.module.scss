@@ -1,0 +1,14 @@
+.funcExample {
+  position: absolute;
+  right: 10%;
+  top: 0;
+  .btn {
+    padding: 10px;
+    background-color: rgb(209, 236, 38);
+    border-radius: 5px;
+    cursor: pointer;
+    pointer-events: all;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+}
